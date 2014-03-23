@@ -1,0 +1,26 @@
+{
+  "name": "node-webkit-boilerplate",
+  "version": "0.0.1",
+  "description": "node-webkit boilerplate project",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-node-webkit-builder": "~0.1.18"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "koba04",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koba04/node-webkit-boilerplate"
+  },
+  "keywords": [
+    "node-webkit"
+  ],
+  "bugs": {
+    "url": "https://github.com/koba04/node-webkit--boilerplate/issues"
+  }
+}
